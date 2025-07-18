@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Fang_Xiaohang"
 title_separator          : "-"
-name                     : &name "Fang_Xiaohang"
+name                     : &name "FunXH"
 description              : &description "Hang on to your dreams"
 url                      : https://funxh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ url                      : https://funxh.github.io # the base hostname & protoco
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "FunXH"
+  name             : "Fang_Xiaohang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
